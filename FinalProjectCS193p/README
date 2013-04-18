@@ -1,0 +1,24 @@
+user:xiaoye (Liu,Xiaoye)
+
+
+#Final project version2 : many bugs found and fixed as compared to the previous version. Text editing  and social sharing is implemented
+#voice recording feature is...not implemented..I am very very sorry but I as short of time on that.
+#potential bug: please avoid using frame for the picture. Although I add them their, it just does not work as perfect as the stamp does.
+
+#Basic steps:
+#1. click create a new postcard , choose a photo/or take a photo
+#2. enter the editing board view controller, the picture you selected will be the front of the card
+
+#3. effect tabbar: change the fliter type to filter your picture 
+#4. click card front / card back button on top of the screen, we can flip to see what's on each side
+#5. stay on the backside (backside is initially white board with nothing) click the insert tabbar: add frame(although I strongly suggest try the stamp not #the photo frame), or stamp 
+#6. click text bar: enter text on the place said"tap to enter text", if you need to hide the keyboard, there's a button on the topbar
+#7.click preview to preview your text, click insert when you feel like it is good to go.
+#8.then click "other" tab: save the image
+#9. click more to share fb accounts or weibo user accounts info needs to be set up in system settings in order to make it work
+#10. click done in "more" and get back to the home screen, we can click on my ipostcard album to see the saved postcard in your cameraroll
+####sorry that sound tab is not working....but I have tried very hard to make everything else work...
+
+
+##potential bug: if we click to move stamp and share the postcard immedaitely without saving, the stamp will be in the new location
+##but if click save before sharing, the stamp will be back to the original place.
